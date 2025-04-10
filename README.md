@@ -34,7 +34,7 @@ Constructed with semantic HTML and pure CSS — designed to reinforce the fundam
 ## 📌 Access
 
 This is a **read-only repository**.  
-If you'd like access to any specific project files, feel free to contact me — happy to share upon request.
+No one can **fork the repository**.
 
 ---
 
@@ -42,5 +42,6 @@ If you'd like access to any specific project files, feel free to contact me — 
 
 These projects reflect an evolving skillset — not perfection.  
 They're built to learn, improve, and iterate.
+If anyone, likes the work here, or wants to get the source files for reference, feel free to contact me on my LinkedIn! (Can't wait for your texts!)
 
-Thanks for checking them out.
+Thanks for checking them out!
