@@ -42,6 +42,6 @@ No one can **fork the repository**.
 
 These projects reflect an evolving skillset — not perfection.  
 They're built to learn, improve, and iterate.
-If anyone, likes the work here, or wants to get the source files for reference, feel free to contact me on my LinkedIn! (Can't wait for your texts!)
+If anyone feels that the work here resonates with you, or wants to get the source files for reference, feel free to contact me on my [LinkedIn!] (https://www.linkedin.com/in/shiva-gurumurthy-221278298) (Can't wait for your texts! 💬...)
 
-Thanks for checking them out!
+Thank you so much for stopping by! 😊
