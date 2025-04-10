@@ -1,19 +1,46 @@
-#Front End Projects
-Welcome to the Front End Projects repository! This collection showcases creative and diverse projects designed to build and demonstrate skills in front-end development using technologies like HTML, CSS, JavaScript, ReactJS, and Tailwind CSS.
+# ✨ Frontend Projects
 
-Projects Included
-JioSaavn Clone Built with Tailwind CSS. A responsive and visually appealing replica of the JioSaavn website, focusing on modern design and styling techniques.
+Welcome to my collection of frontend development projects — each one crafted to explore structure, styling, and design implementation using HTML, CSS, JavaScript, Tailwind CSS, and ReactJS.
 
-Starbucks Clone Powered by ReactJS. A dynamic replica of the Starbucks website, created using modular React components for seamless functionality.
+This repository reflects my learning journey — with a focus on layout precision, visual hierarchy, and component-based architecture.
 
-Medium Clone Crafted with HTML & CSS. A simple and elegant clone of the Medium platform, emphasizing core front-end design principles.
+---
 
-Features
-Clear implementation of design and development techniques.
+## 📁 Included Projects
 
-Fully responsive layouts for a better user experience across devices.
+### 🎵 JioSaavn Clone — Tailwind CSS  
+A desktop-focused clone of the JioSaavn homepage.  
+Styled entirely with Tailwind CSS, built to experiment with layout techniques and modern utility-first design.
 
-Well-structured code to help developers learn and improve their skills.
+### ☕ Starbucks Clone — ReactJS  
+A structured layout clone of the Starbucks homepage using ReactJS.  
+Built with modular components and a focus on JSX structure and design flow.
 
-Repository Guidelines
-This is a read-only repository. If you'd like access to any of the project files, please contact me directly. I'll provide access based on your request.
+### ✍️ Medium Clone — HTML & CSS  
+A clean, desktop-based clone of Medium’s core layout.  
+Constructed with semantic HTML and pure CSS — designed to reinforce the fundamentals of visual hierarchy and page flow.
+
+---
+
+## 🛠 Project Scope
+
+- Desktop-first development approach  
+- Some files use positioning-based layout (intentional for experimentation)  
+- No mobile or responsive implementations yet  
+- Focused on structure, spacing, and layout strategy
+
+---
+
+## 📌 Access
+
+This is a **read-only repository**.  
+If you'd like access to any specific project files, feel free to contact me — happy to share upon request.
+
+---
+
+## 💬 Final Note
+
+These projects reflect an evolving skillset — not perfection.  
+They're built to learn, improve, and iterate.
+
+Thanks for checking them out.
