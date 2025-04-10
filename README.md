@@ -34,7 +34,7 @@ Constructed with semantic HTML and pure CSS — designed to reinforce the fundam
 ## 📌 Access
 
 This is a **read-only repository**.  
-No one can **fork the repository**.
+Forking option in this repository, has been **disabled**. (Sorry about that!)
 
 ---
 
